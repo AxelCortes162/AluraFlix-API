@@ -46,7 +46,7 @@
           "id": "1.4",
           "categoria":"Acción",
           "descripcion": "El ex convicto Dominic Toretto se une a su viejo adversario, Brian O'Conner, que ahora trabaja para el FBI en Los Ángeles, con el fin de infiltrarse en una organización criminal que se dedica a introducir heroína en la ciudad.",
-          "urlVideo": "https://www.youtube.com/embed/zh4KhVSMwtQ?si=W0q4MPfOqz3uUIvP",
+          "urlVideo": "https://www.youtube.com/embed/O5BOxn8Go8U?si=Twb9oZynHk9fRQP7",
           "urlImagen": "https://www.universalpictures.com.mx/tl_files/content/movies/fastx/poster/01.jpg"
       },
       {
@@ -64,6 +64,14 @@
           "descripcion": "Maddie, una mujer de 32 años en la bancarrota, acepta la propuesta de los padres del joven Percy, quienes le ofrecen un automóvil de lujo a cambio de que finja atracción por su hijo y así aumente su autoestima antes de que vaya a la universidad.",
           "urlVideo": "https://www.youtube.com/embed/T64iIyB-2xQ?si=SCkUJhYeGcz6TXrv",
           "urlImagen": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/42630-878206-20230602012211.jpg"
+      },
+      {
+          "nombre": "Transformers el despertar de las bestias",
+          "id": "1.7",
+          "categoria":"Acción",
+          "descripcion": "Durante la década de 1990, los Maximals, Predacons y Terrorcons se unen a la batalla existente en la Tierra entre Autobots y Decepticons.",
+          "urlVideo": "https://www.youtube.com/embed/v0d0id78XdE?si=JFdgQ5jTDSlGIpeH",
+          "urlImagen": "https://i.blogs.es/72f9a1/cartel-de-transformers-7/450_1000.jpeg"
       }
   ]
 }
