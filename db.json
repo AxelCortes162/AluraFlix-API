@@ -22,7 +22,7 @@
           "id": "1.1",
           "categoria":"Comedia",
           "descripcion": "Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la verdadera felicidad.",
-          "urlVideo": "https://youtu.be/zh4KhVSMwtQ?si=va50P40yiapYrFHg",
+          "urlVideo": "zh4KhVSMwtQ?si=W0q4MPfOqz3uUIvP",
           "urlImagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVvWRrRBvB7-m4KPNnIvhmU7CkDrRmetnS-fN9bWil2s-VtklG"
       },
       {
@@ -46,7 +46,7 @@
           "id": "1.4",
           "categoria":"Acción",
           "descripcion": "El ex convicto Dominic Toretto se une a su viejo adversario, Brian O'Conner, que ahora trabaja para el FBI en Los Ángeles, con el fin de infiltrarse en una organización criminal que se dedica a introducir heroína en la ciudad.",
-          "urlVideo": "https://www.youtube.com/embed/O5BOxn8Go8U?si=Twb9oZynHk9fRQP7",
+          "urlVideo": "https://www.youtube.com/embed/zh4KhVSMwtQ?si=W0q4MPfOqz3uUIvP",
           "urlImagen": "https://www.universalpictures.com.mx/tl_files/content/movies/fastx/poster/01.jpg"
       },
       {
@@ -66,12 +66,68 @@
           "urlImagen": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/42630-878206-20230602012211.jpg"
       },
       {
-          "nombre": "Transformers el despertar de las bestias",
+          "nombre": "Son como niños",
           "id": "1.7",
-          "categoria":"Acción",
-          "descripcion": "Durante la década de 1990, los Maximals, Predacons y Terrorcons se unen a la batalla existente en la Tierra entre Autobots y Decepticons.",
-          "urlVideo": "https://www.youtube.com/embed/v0d0id78XdE?si=JFdgQ5jTDSlGIpeH",
-          "urlImagen": "https://i.blogs.es/72f9a1/cartel-de-transformers-7/450_1000.jpeg"
+          "categoria":"Comedia",
+          "descripcion": "La muerte de su entrenador de baloncesto durante su infancia provoca la reunión de algunos viejos amigos, quienes se ven en el lugar en el que celebraron un campeonato años atrás. Los compañeros hablan sobre sus esposas y sus hijos, y descubren que la edad no necesariamente va de la mano con la madurez.",
+          "urlVideo": "https://www.youtube.com/watch?v=yMEDiKD7cyE&t=25s&pp=ygUXdHJhaWxlciBzb24gY29tbyBuacOxb3M%3D",
+          "urlImagen": "https://mx.web.img3.acsta.net/pictures/20/07/07/00/55/1740448.jpg"
+      },
+      {
+          "nombre": "Sherk",
+          "id": "1.8",
+          "categoria":"Comedia",
+          "descripcion": "Hace mucho tiempo, en una lejana ciénaga, vivía un ogro llamado Shrek. Un día, su preciada soledad se ve interrumpida por un montón de personajes de cuento de hadas que invaden su casa. Todos fueron desterrados de su reino por el malvado Lord Farquaad. Decidido a devolverles su reino y recuperar la soledad de su ciénaga, Shrek llega a un acuerdo con Lord Farquaad y va a rescatar a la princesa Fiona, la futura esposa del rey. Sin embargo, la princesa esconde un oscuro secreto.",
+          "urlVideo": "https://youtu.be/TMIsxOsuwNA?si=m3y3WAa8wWbLltVv",
+          "urlImagen": "https://www.ecartelera.com/carteles/5000/5060/001_m.jpg"
+      },
+      {
+          "nombre": "No se aceptan devoluciones",
+          "id": "1.9",
+          "categoria":"Comedia",
+          "descripcion": "Valentín es el soltero más mujeriego de Acapulco. Un día, una mujer de su pasado deja un bebé en su puerta y desaparece. Valentín decide ir a Los Ángeles en su búsqueda, pero en vez de encontrar a la madre, descubre un hogar para él y su nueva hija Maggie.",
+          "urlVideo": "https://youtu.be/Ua5qcs7RHiY?si=oKSP0Pc8EenvTD7T",
+          "urlImagen": "https://es.web.img2.acsta.net/pictures/14/02/18/16/51/000179.jpg"
+      },
+      {
+          "nombre": "Marcianos vs Mexicanos",
+          "id": "1.10",
+          "categoria":"Comedia",
+          "descripcion": "Extraños seres del espacio invaden la Tierra y pretenden conquistarla comenzando por Estados Unidos, pero no contaban con que en el mundo existen mexicanos.",
+          "urlVideo": "https://youtu.be/ZlgD7JEwAME?si=N70KJOfYhXiqku-y",
+          "urlImagen": "https://pics.filmaffinity.com/marcianos_vs_mexicanos-784828918-msmall.jpg"
+      },
+      {
+          "nombre": "Como novio de pueblo",
+          "id": "1.11",
+          "categoria":"Comedia",
+          "descripcion": "Después de ser plantado el día de su boda, Diego queda destrozado y pasa de vivir el mejor día de su vida a tener el peor momento de su existencia. Sus primos no permiten que Diego caiga y lo llevan a la playa para olvidar y divertirse.",
+          "urlVideo": "https://youtu.be/eo9h0FWOwF0?si=n4Mvtx6sa7Ihpv1u",
+          "urlImagen": "https://m.media-amazon.com/images/M/MV5BMzBhMjVjZTktYzgwNy00ODIyLTgxNzAtN2QyNTlkODQwYmU5XkEyXkFqcGdeQXVyOTU3NDE4NzQ@._V1_.jpg"
+      },
+      {
+          "nombre": "Scary Movie",
+          "id": "1.12",
+          "categoria":"Comedia",
+          "descripcion": "En esta parodia de las películas de terror modernas, un año después de atropellar a un hombre y deshacerse del cadáver, un grupo de adolescentes es acechado por un asesino en serie bastante inútil.",
+          "urlVideo": "https://youtu.be/3iy0pE1FBkc?si=t3-PG_wQFe9sahF-",
+          "urlImagen": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+      },
+      {
+          "nombre": "Nacho Libre",
+          "id": "1.13",
+          "categoria":"Comedia",
+          "descripcion": "Cocinero en un orfanato de día y luchador de noche. Ignacio o 'Súper Nacho' lleva una doble vida con el fin de ganar dinero para los huérfanos.",
+          "urlVideo": "https://youtu.be/5Atg2aASyY4?si=HM_itslMlJ9BXIKG",
+          "urlImagen": "https://www.latercera.com/resizer/nDTxHVjuDSW1S-f0k3WUbfZX1i4=/380x570/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/RLBZ3CTGUVBBXGTVCEMEESQRE4.jpg"
+      },
+      {
+          "nombre": "Kick Ass",
+          "id": "1.14",
+          "categoria":"Comedia",
+          "descripcion": "Dave un estudiante de instituto aficionado a los cómics y que siempre pasa desapercibido, decide un día convertirse en superhéroe aunque no tenga superpoderes, no haya seguido un duro entrenamiento y ni siquiera tenga una significativa razón para ello.",
+          "urlVideo": "https://youtu.be/2rpXHqnGDXo?si=FAwDcpsJH1bLYzgF",
+          "urlImagen": "https://www.mubis.es/media/covers/1237/1372/kick-ass-portada-original.jpg"
       }
   ]
 }
