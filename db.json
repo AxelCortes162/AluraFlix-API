@@ -215,7 +215,7 @@
           "categoria":"Acción",
           "descripcion": "Misión: Imposible 7 es la séptima entrega de la serie cinematográfica Misión Imposible y la tercera película de la serie dirigida por McQuarrie, tras Misión: Imposible - Rogue Nation y Misión: Imposible - Fallout.",
           "urlVideo": "https://youtu.be/3kM40dT0WdY?si=XqU3-aihsfpYVFfZ",
-          "urlImagen": "https://es.web.img3.acsta.net/pictures/23/06/12/14/57/1146587.jpg"
+          "urlImagen": "https://i.etsystatic.com/35681979/r/il/3d332a/3927360837/il_fullxfull.3927360837_c8ui.jpg"
       },
       {
           "nombre": "Sonidos de Libertad",
@@ -248,6 +248,14 @@
           "descripcion": "Un grupo de mercenarios, liderado por Barney Ross, es contratado para infiltrarse en un país sudamericano y derrocar a su corrupto dictador. Cuando llegan allí, se ven atrapados en una red de mentiras y traición, que hace que la misión fracase. Entonces deberán enfrentarse a una misión aún más difícil: salvar la unidad del equipo y la amistad que les ha unido todo este tiempo.",
           "urlVideo": "https://youtu.be/Z1rhjERTBb8?si=dyGluyG1ba2mAIFq",
           "urlImagen": "https://i.pinimg.com/originals/c4/5b/92/c45b92a4f577dca169166f1572bdd8cc.jpg"
+      },
+      {
+          "nombre": "Blue Beetle",
+          "id": "1.29",
+          "categoria":"Acción",
+          "descripcion": "El Escarabajo, una antigua reliquia extraterrestre, elige al estudiante Jaime Reyes como el huésped simbiótico en cuyo cuerpo resguardarse. A partir de ese momento, Jaime desarrolla una armadura que le otorga poderes increíbles e impredecibles.",
+          "urlVideo": "https://youtu.be/-PEODBVHCgU?si=geHWcEopZJ6u6RWn",
+          "urlImagen": "https://www.ecartelera.com/carteles/17800/17818/003_m.jpg"
       }
       
   ]
