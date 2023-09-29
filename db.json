@@ -128,6 +128,127 @@
           "descripcion": "Dave un estudiante de instituto aficionado a los cómics y que siempre pasa desapercibido, decide un día convertirse en superhéroe aunque no tenga superpoderes, no haya seguido un duro entrenamiento y ni siquiera tenga una significativa razón para ello.",
           "urlVideo": "https://youtu.be/2rpXHqnGDXo?si=FAwDcpsJH1bLYzgF",
           "urlImagen": "https://www.aceprensa.com/wp-content/uploads/2010/06/23483-0.jpg"
+      },
+      {
+          "nombre": "Háblame",
+          "id": "1.15",
+          "categoria":"Terror",
+          "descripcion": "Mia piensa cada día en la muerte de su madre, fallecida en circunstancias poco claras. Un día, ella y su grupo de amigos encuentran una mano embalsamada que permite invocar a los espíritus, pero hay puertas que, una vez abiertas, no se pueden cerrar.",
+          "urlVideo": "https://youtu.be/2I5NBRmK5K4?si=8oW7ZtJLBZg0UK21",
+          "urlImagen": "https://es.web.img2.acsta.net/pictures/23/05/05/14/54/1091444.jpg"
+      },
+      {
+          "nombre": "El exorcista del Papa",
+          "id": "1.15",
+          "categoria":"Terror",
+          "descripcion": "Gabriele Amorth, el jefe de exorcistas del Vaticano, descubre una conspiración que se remonta a cientos de años atrás mientras investiga la aterradora posesión de un niño pequeño.",
+          "urlVideo": "https://youtu.be/SoIOGkxB-Rk?si=4PMNCwJlUCA5jjPE",
+          "urlImagen": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/41961-584178-20230310125105.jpg"
+      },
+      {
+          "nombre": "REC",
+          "id": "1.16",
+          "categoria":"Terror",
+          "descripcion": "Una reportera y su camarógrafo graban la terrible epidemia de una enfermedad que transforma a los humanos en caníbales en un edificio de vecinos que ha sido puesto en cuarentena. Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único en el mundo.",
+          "urlVideo": "https://youtu.be/TMNbfvpfp4k?si=LVWhQ5RcXrWQ3efk",
+          "urlImagen": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/28188/28188_800x1153.jpg"
+      },
+      {
+          "nombre": "La maldición rencace",
+          "id": "1.17",
+          "categoria":"Terror",
+          "descripcion": "Después de que una joven madre asesina a su familia en su propia casa, una madre soltera y un detective intentan investigar y resolver el caso. Más tarde, descubren que la casa está maldita por un fantasma vengativo que condena a quienes entran con una muerte violenta.",
+          "urlVideo": "https://youtu.be/sMzc0my_tlk?si=1dAouPOKYtnBiVJg",
+          "urlImagen": "https://pics.filmaffinity.com/La_maldiciaon_The_Grudge-695880481-large.jpg"
+      },
+      {
+          "nombre": "Evil Dead: Rise",
+          "id": "1.18",
+          "categoria":"Terror",
+          "descripcion": "Una mujer se ve inmersa en una lucha por su vida cuando un antiguo libro da a luz a demonios sedientos de sangre que se desbocan en un edificio de apartamentos de Los Ángeles.",
+          "urlVideo": "https://youtu.be/wyIU0ybX3UY?si=cutEJN3tqgwT5hqV",
+          "urlImagen": "https://www.infobae.com/new-resizer/eBXkplL-uXJNQ-bZxawB2eXTAf0=/arc-anglerfish-arc2-prod-infobae/public/5SXPCVPNQVH7RHIZG67UPMK3FE.png"
+      },
+      {
+          "nombre": "Smile",
+          "id": "1.19",
+          "categoria":"Terror",
+          "descripcion": "Tras presencia el dramático incidente sufrido por un paciente, la Dra. Cotter empieza a experimentar hechos aterradores sin explicación aparente. A medida que el horror se adueña de su vida, comprende que la respuesta está en su propio pasado.",
+          "urlVideo": "https://youtu.be/yhKiQGJop_8?si=LNG5wMW-5sc8Ubnu",
+          "urlImagen": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Smile_%282022_film%29.jpg/220px-Smile_%282022_film%29.jpg"
+      },
+      {
+          "nombre": "Terrifier",
+          "id": "1.20",
+          "categoria":"Terror",
+          "descripcion": "En la noche de Halloween, tras una fiesta, Tara y Dawn entran en una pizzería. Tras ellas llega un payaso inquietante y grotesco que hiela la sangre a Tara. Las chicas no tardan en descubrir que es un psicópata sádico que pretende matarlas.",
+          "urlVideo": "https://youtu.be/vTutJ2_E1Vo?si=T_UAfHwjxA3oPNUo",
+          "urlImagen": "https://m.media-amazon.com/images/I/71j4Ct2JPYL.jpg"
+      },
+      {
+          "nombre": "Huesera",
+          "id": "1.21",
+          "categoria":"Terror",
+          "descripcion": "Tras mucho desearlo, Valeria por fin queda embarazada. Sin embargo, esto es el comienzo del horror pues, a partir de ese momento, una figura macabra y esquelética empieza a visitarla.",
+          "urlVideo": "https://youtu.be/cHBDyGwrIqo?si=gpuZhShHvIbU1ajp",
+          "urlImagen": "https://pics.filmaffinity.com/Huesera-503371313-large.jpg"
+      },
+      {
+          "nombre": "Telefono Negro",
+          "id": "1.22",
+          "categoria":"Terror",
+          "descripcion": "En una ciudad de Colorado, en los años 70, un enmascarado secuestra a Finney Shaw, un chico tímido e inteligente de 13 años, y le encierra en un sótano insonorizado donde de nada sirven sus gritos. Cuando un teléfono roto y sin conexión empieza a sonar, Finney descubre que a través de él puede oír las voces de las anteriores víctimas, las cuales están decididas a impedir que Finney acabe igual que ellas.",
+          "urlVideo": "https://youtu.be/kQ3EMxTAwXY?si=fOor67vLcWSzOj7S",
+          "urlImagen": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/39327-778314-20220602041642.jpg"
+      },
+      {
+          "nombre": "Top Gun",
+          "id": "1.23",
+          "categoria":"Acción",
+          "descripcion": "El joven piloto Maverick Mitchell acude a una prestigiosa escuela aérea, famosa por formar a los mejores pilotos de combate del país. Maverick se siente atraído por su hermosa instructora, mientras desarrolla una intensa rivalidad con otro piloto.",
+          "urlVideo": "https://youtu.be/xa_z57UatDY?si=ib8DaOotQ1aqthNN",
+          "urlImagen": "https://mx.web.img2.acsta.net/c_310_420/pictures/14/03/17/13/47/352013.jpg"
+      },
+      {
+          "nombre": "Misión imposible: sentencia mortal",
+          "id": "1.44",
+          "categoria":"Acción",
+          "descripcion": "Misión: Imposible 7 es la séptima entrega de la serie cinematográfica Misión Imposible y la tercera película de la serie dirigida por McQuarrie, tras Misión: Imposible - Rogue Nation y Misión: Imposible - Fallout.",
+          "urlVideo": "https://youtu.be/3kM40dT0WdY?si=XqU3-aihsfpYVFfZ",
+          "urlImagen": "https://es.web.img3.acsta.net/pictures/23/06/12/14/57/1146587.jpg"
+      },
+      {
+          "nombre": "Sonidos de Libertad",
+          "id": "1.25",
+          "categoria":"Acción",
+          "descripcion": "Un ex agente federal se embarca en una peligrosa misión para salvar a una niña de unos despiadados traficantes de menores. Se le acaba el tiempo y se adentra en la selva colombiana, arriesgando su vida para liberarla de un destino peor que la muerte.",
+          "urlVideo": "https://youtu.be/H82uvLvszQ0?si=5GacWqwJfMdFnW4Z",
+          "urlImagen": "https://www.cinepremiere.com.mx/wp-content/uploads/2023/07/Sonido-de-libertad-Poster.jpg"
+      },
+      {
+          "nombre": "Megalodon 2: El gran abismo",
+          "id": "1.26",
+          "categoria":"Acción",
+          "descripcion": "Jonas Taylor lidera un equipo de investigación en las profundidades del océano. Acorralados por colosales tiburones prehistóricos y despiadados bandidos, los científicos intentan sobrevivir a toda costa.",
+          "urlVideo": "https://youtu.be/7wuK5PhzcNY?si=1WJwVzmaPxxVMaBa",
+          "urlImagen": "https://www.ecartelera.com/carteles/17800/17853/001_m.jpg"
+      },
+      {
+          "nombre": "Spider-Man: lejos de casa",
+          "id": "1.27",
+          "categoria":"Acción",
+          "descripcion": "Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
+          "urlVideo": "https://youtu.be/Nt9L1jCKGnE?si=RZAy0JEvrHPwA17f",
+          "urlImagen": "https://m.media-amazon.com/images/S/pv-target-images/3c31d4bb29b2ae03641a30800bd7c21a041b64876df37f487bdf123423058232.jpg"
+      },
+      {
+          "nombre": "Los Indestructibles",
+          "id": "1.28",
+          "categoria":"Acción",
+          "descripcion": "Un grupo de mercenarios, liderado por Barney Ross, es contratado para infiltrarse en un país sudamericano y derrocar a su corrupto dictador. Cuando llegan allí, se ven atrapados en una red de mentiras y traición, que hace que la misión fracase. Entonces deberán enfrentarse a una misión aún más difícil: salvar la unidad del equipo y la amistad que les ha unido todo este tiempo.",
+          "urlVideo": "https://youtu.be/Z1rhjERTBb8?si=dyGluyG1ba2mAIFq",
+          "urlImagen": "https://i.pinimg.com/originals/c4/5b/92/c45b92a4f577dca169166f1572bdd8cc.jpg"
       }
+      
   ]
 }
